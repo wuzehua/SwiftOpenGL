@@ -1,0 +1,14 @@
+module CGLFW [system] {
+  header "shim.h"
+  link "glfw"
+  //link "glew"
+
+  //link "GL"
+  link "X11"
+  link "Xxf86vm"
+  link "Xrandr"
+  link "Xi"
+  link "Xinerama"
+  link "Xcursor"
+  export *
+}

@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SGLImage",
+        "repositoryURL": "https://github.com/SwiftGL/Image.git",
+        "state": {
+          "branch": null,
+          "revision": "7aa96e7548baa8d06619b97a1906012193f6eff8",
+          "version": "2.2.0"
+        }
+      },
+      {
+        "package": "SGLMath",
+        "repositoryURL": "https://github.com/SwiftGL/Math.git",
+        "state": {
+          "branch": null,
+          "revision": "4712dfff4fac7c459a3f997cea1b5e6475f14641",
+          "version": "2.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

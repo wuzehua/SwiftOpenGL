@@ -1,0 +1,7 @@
+module CGLEW [system] {
+  header "shim.h"
+  //link "glew"
+
+  link "GL"
+  export *
+}
