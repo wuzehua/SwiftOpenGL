@@ -2,9 +2,6 @@ import CGLFW
 import CGLEW
 
 let WIDTH:GLsizei = 800, HEIGHT: GLsizei = 600
-let glfalse = 0
-let gltrue = 1
-let clear_bit = 0x00004000
 
 func main()
 {
